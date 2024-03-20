@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <a href="https://appwrite.io" target="_blank"><img src="/profile/images/banner.png" alt="Appwrite Banner"></a>
+    <a href="https://appwrite.io" target="_blank"><img src="./ashroy-logo.png" alt="Ashroy Banner"></a>
     <br />
     <br />
     <b>ASHROY One place to unite individuals with Non-profit organizations of every kind.
