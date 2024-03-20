@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <img src="/profile/ashroy-logo.png" alt="Ashroy Banner">
+    <img src="/profile/ashroy-banner.png" alt="Ashroy Banner">
     <br />
     <br />
     <b>ASHROY One place to unite individuals with Non-profit organizations of every kind.
